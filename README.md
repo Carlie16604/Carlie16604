@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hey! I'm Carlie Malone 👋
 
-<!--
-**Carlie16604/Carlie16604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Developer based in Denver, Colorado. 
+<br/>
 
-Here are some ideas to get you started:
+### What I'm cooking with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,postgres,postman,react,cs,dotnet,nodejs,sass,figma&theme=light)](https://skillicons.dev)
+<br/>
+
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/carlie-malone23/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
