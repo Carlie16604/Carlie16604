@@ -18,5 +18,5 @@ I'm a Fullstack Developer based in Denver, Colorado.
 <br/>
 
 ### Stats
-<!-- ![Carlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlie16604&hide_progress=true&rank_icon=github)<br/> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlie16604&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlie16604&layout=donut)](https://github.com/Carlie16604/github-readme-stats)
+![Carlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlie16604&rank_icon=github&hide_rank=true)
