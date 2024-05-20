@@ -15,3 +15,8 @@ I'm a Fullstack Developer based in Denver, Colorado.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<br/>
+
+### Stats
+<!-- ![Carlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlie16604&hide_progress=true&rank_icon=github)<br/> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlie16604&layout=compact)
