@@ -5,7 +5,7 @@ I'm a Fullstack Developer based in Denver, Colorado.
 
 ### What I'm cooking with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,postgres,postman,react,dotnet,nodejs,sass,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,postgres,postman,react,dotnet,nodejs,sass,figma)](https://skillicons.dev)
 <br/>
 
 ### Socials
@@ -18,5 +18,5 @@ I'm a Fullstack Developer based in Denver, Colorado.
 <br/>
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlie16604&layout=donut)](https://github.com/Carlie16604/github-readme-stats)
-![Carlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlie16604&rank_icon=github&hide_rank=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlie16604&layout=donut&theme=transparent)](https://github.com/Carlie16604/github-readme-stats)
+![Carlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlie16604&rank_icon=github&hide_rank=true&theme=transparent)
