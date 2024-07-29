@@ -5,7 +5,7 @@ I'm a Fullstack Developer based in Denver, Colorado.
 
 ### What I'm cooking with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,postgres,postman,react,dotnet,nodejs,sass,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,nodejs,postgres,react,vite,tailwind,figma,sass,postman)](https://skillicons.dev)
 <br/>
 
 ### Socials
